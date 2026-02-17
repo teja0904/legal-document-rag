@@ -1,0 +1,21 @@
+# Data & Indices
+data/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
